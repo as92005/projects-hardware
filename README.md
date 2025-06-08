@@ -1,4 +1,4 @@
-# Projects-hardware
+# Projects- Hardware
 
 Here's a collection of hardware projects I've worked on, combining what I’ve learned in my ECE courses with hands-on building and problem-solving:
 
