@@ -1,4 +1,6 @@
-Third Eye for the Blind- A wearable assistive device for visually impaired individuals that detects obstacles and provides real-time feedback through vibration and sound.
+Third Eye for the Blind Summary-
+
+A wearable assistive device for visually impaired individuals that detects obstacles and provides real-time feedback through vibration and sound.
 
 Key Features:
 - Ultrasonic Sensor- Detects distance to nearby obstacles.
