@@ -18,5 +18,5 @@ Key Features:
 - Motor Control Circuit- Drives a vibration motor (vibration intensity increases with proximity).
 
 
-![8679b342-fc2e-4416-9a04-cbfbcabf2c70_1](https://github.com/user-attachments/assets/7b59093e-df27-49e1-a3c5-27744ec6e61b)
+![ECE198 final project](https://github.com/user-attachments/assets/d1ab3b84-5ced-4623-9f06-6744a3080653)
 
