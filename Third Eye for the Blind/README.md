@@ -16,3 +16,7 @@ Key Features:
 - Tone Generator Circuit- Drives a buzzer for audio feedback (beep frequency increases with proximity).
 
 - Motor Control Circuit- Drives a vibration motor (vibration intensity increases with proximity).
+
+
+![8679b342-fc2e-4416-9a04-cbfbcabf2c70_1](https://github.com/user-attachments/assets/7b59093e-df27-49e1-a3c5-27744ec6e61b)
+
