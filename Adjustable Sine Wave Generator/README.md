@@ -1,4 +1,5 @@
-Adjustable Sine Wave Generator Summary- 
+**Adjustable Sine Wave Generator ([Full project report](./Final Design Report ECE 110.pdf)) Summary**- 
+
 This project involved designing a circuit that outputs a sine wave with adjustable amplitude (10–12 Vpp), frequency (400–800 Hz), and independent top/bottom clipping.
 
 
