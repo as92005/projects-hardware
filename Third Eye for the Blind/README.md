@@ -17,12 +17,13 @@ Key Subcircuits:-
 - Tone Generator: Produces beeps at varying frequencies based on distance.
 - Motor Circuit: Controls vibration intensity based on proximity.
 
+  <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/08349c97-325e-4c29-8c52-8d9460af21fa" />
+
 Notable Design Choices:-
 - Used FSMs and custom logic for precise timing and state transitions.
 - Added buffers and inverters to isolate circuits and preserve signal integrity.
 - Mapped input voltages (0–8V) to match the motor’s operating range (0–4.2V) using op-amp scaling.
 
-<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/08349c97-325e-4c29-8c52-8d9460af21fa" />
 
 
 Overall Ciruit:
