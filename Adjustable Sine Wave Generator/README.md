@@ -1,6 +1,7 @@
 Adjustable Sine Wave Generator Summary- 
 This project involved designing a circuit that outputs a sine wave with adjustable amplitude (10–12 Vpp), frequency (400–800 Hz), and independent top/bottom clipping.
 
+
 Key Features:-
 - 555 Timer in astable mode generates a square wave with variable frequency using a potentiometer.
 - 4 Low-Pass Filters smooth the square wave into a sine wave, with cutoff frequency designed below the 400 Hz minimum.
