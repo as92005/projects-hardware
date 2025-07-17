@@ -1,4 +1,4 @@
-**Third Eye for the Blind Summary**- **[Full project report](./ThirdEye_FinalReport.pdf)** 
+**Third Eye for the Blind ([Full project report](./ThirdEye_FinalReport.pdf)) Summary**- 
 
 This project is a wearable assistive device that helps visually impaired individuals detect nearby obstacles using an ultrasonic sensor, providing real-time feedback through vibration and sound. The closer the person is to an object, the stronger the vibration and the faster the beeping.
 
