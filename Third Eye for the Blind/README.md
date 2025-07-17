@@ -27,6 +27,6 @@ Notable Design Choices:-
 
 
 
-Overall Ciruit:
+Overall Ciruit:-
 ![ECE198 final project](https://github.com/user-attachments/assets/d1ab3b84-5ced-4623-9f06-6744a3080653)
 
