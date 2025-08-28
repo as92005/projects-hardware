@@ -15,7 +15,9 @@ Design Highlights:-
 
 The final output met all the requirements: clean sine wave, tunable frequency and amplitude, and adjustable clipping.
 
-**#Mention practical usages too.**
+Practical Uses:-
+- Testing Amplifiers and Speakers: This generator can be used to send a known sine wave into audio systems to check for distortion, weak output, or other faults.
+- Carrier Signal for Modulation: The adjustable sine wave can act as a carrier signal in AM or FM experiments, useful for learning and testing basic communication systems.
 
 Final Circuit:-
 
