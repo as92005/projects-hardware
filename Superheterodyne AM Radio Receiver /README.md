@@ -7,6 +7,9 @@ We constructed a Superheterodyne AM Radio Receiver that would take a modulated A
 
 
 
+
+
+
 How It Works:-
 
 The receiver takes in a modulated AM signal from the antenna. This signal contains the high-frequency carrier with the embedded audio message. Since directly filtering and demodulating such high frequencies is difficult, the superheterodyne architecture is used:
