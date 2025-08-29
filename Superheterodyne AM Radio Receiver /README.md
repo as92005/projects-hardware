@@ -1,6 +1,7 @@
 **Superheterodyne AM Radio Receiver**-
 
 We constructed a Superheterodyne AM Radio Receiver that would take a modulated AM signal from an antenna as input, process it through analog stages, and deliver clear audio through a speaker.
+
 <img width="1375" height="324" alt="image" src="https://github.com/user-attachments/assets/1dcdcfa9-2829-4391-808c-a3aed13f03cb" />
 
 
