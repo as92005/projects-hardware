@@ -8,5 +8,7 @@ Here's a collection of hardware projects I've worked on, combining what I’ve l
 2. Adjustable Sine Wave Generator (ECE 110 Final Project)-
    This project involved creating a circuit that converts a square wave into a sine wave with adjustable (10–12 Vpp), frequency (400–800 Hz), and customizable top and bottom clipping. The circuit was built using a 555 timer IC to produce a square wave, followed by four low-pass filters to smooth it into a sine wave. A voltage divider was used to set clipping thresholds, and three operational amplifier ICs were used to adjust amplitude and apply the clipping.
 
+3. Superheterodyne AM Radio Receiver (ECE 210 Final project)-
+This project was designed to receive and decode AM radio signals. It uses a series of analog components to convert the high-frequency AM signal into a lower Intermediate Frequency (14 kHz) for easier processing. The receiver extracts the audio message from the modulated signal, amplifies it, and outputs it through a speaker. The project demonstrates key concepts in radio frequency communication and signal processing.
 
 
